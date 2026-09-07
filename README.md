@@ -27,17 +27,17 @@ Este projeto é uma landing page para o restaurante fictício, com foco em **lay
   <tr>
     <td align="center">
       <b>Início</b><br>
-      <img src="src/images/preview-inicio.png" width="320">
+      <img src="src/images/preview-inicio.png" width="420">
     </td>
     <td align="center" rowspan="2">
       <b>Cardápio</b><br>
-      <img src="src/images/preview-cardapio.png" width="320">
+      <img src="src/images/preview-cardapio.png" width="420">
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>Avaliações</b><br>
-      <img src="src/images/preview-avaliacoes.png" width="320">
+      <img src="src/images/preview-avaliacoes.png" width="420">
     </td>
   </tr>
 </table>
