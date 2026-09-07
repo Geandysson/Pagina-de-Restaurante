@@ -23,9 +23,24 @@ Este projeto é uma landing page para o restaurante fictício, com foco em **lay
 
 <div align="center">
 
-| Início | Cardápio | Avaliações |
-|:---:|:---:|:---:|
-| ![Início](src/images/preview-inicio.png) | ![Cardápio](src/images/preview-cardapio.png) | ![Avaliações](src/images/preview-avaliacoes.png) |
+<table>
+  <tr>
+    <td align="center">
+      <b>Início</b><br>
+      <img src="src/images/preview-inicio.png" width="320">
+    </td>
+    <td align="center" rowspan="2">
+      <b>Cardápio</b><br>
+      <img src="src/images/preview-cardapio.png" width="320">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Avaliações</b><br>
+      <img src="src/images/preview-avaliacoes.png" width="320">
+    </td>
+  </tr>
+</table>
 
 </div>
 
